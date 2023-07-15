@@ -87,7 +87,7 @@ const About = () => {
                     I'm a <a href='https://nucamp.co' className='about-link'>Nucamp</a> graduate, all certificates are <a href='#certificates' className='about-link'>
                         here
                     </a>.<br/><br/>
-                    I'm proficient in English and fluent in Russian. Aside from Nucamp experience, i was studying several programming 
+                    I'm proficient in English and fluent in Russian. Aside from Nucamp experience, I was studying several programming 
                     languages at university: C/C++ for a year and Assembly for half a year as a base for future education, 
                     then C# including it in all my subjects, projects and course of Entity Framework in .Net, 
                     so learning Java was a matter of slight syntax difference.
