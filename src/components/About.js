@@ -90,7 +90,8 @@ const About = () => {
                     I'm proficient in English and fluent in Russian. Aside from Nucamp experience, I was studying several programming 
                     languages at university: C/C++ for a year and Assembly for half a year as a base for future education, 
                     then C# including it in all my subjects, projects and course of Entity Framework in .Net, 
-                    so learning Java was a matter of slight syntax difference.
+                    so learning Java was a matter of slight syntax difference. 
+                    I'm ready for new projects and want to learn everything that can be complementary to my knowledge. 
                 </div>
             </div>
         </div>);

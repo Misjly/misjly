@@ -126,6 +126,11 @@ body {
     line-height: clamp(2rem, 1rem + 2vh + 1vw, 3rem) !important;
   }
 }
+@media screen and (max-width: 400px) {
+  .about-caption {
+    margin: 0 !important;
+  }
+}
 
 .about-me {
   font-family: tinos;
